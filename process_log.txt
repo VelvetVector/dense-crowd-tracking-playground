@@ -1,0 +1,10 @@
+[log starts here - notes get appended below as you use the app]
+[2026-08-25 00:23:11] switched to model=yolov8s, conf=0.41
+[2026-08-25 00:28:06] loaded video, 450 frames after skip=4, model=yolov8s, conf=0.41
+[2026-08-25 00:32:54] loaded video, 450 frames after skip=4, model=yolov8s, conf=0.41
+[2026-08-25 00:49:43] loaded video, 450 frames after skip=4, model=yolov8s, conf=0.41
+[2026-08-25 00:50:53] loaded video, 450 frames after skip=4, model=yolov8s, conf=0.41
+[2026-08-25 00:51:01] loaded video, 900 frames after skip=2, model=yolov8s, conf=0.25
+[2026-08-25 00:51:16] loaded video, 489 frames after skip=2, model=yolov8s, conf=0.25
+[2026-08-25 00:52:01] switched to model=yolov8s, conf=0.48
+[2026-08-25 00:52:07] switched to model=yolov8s, conf=0.45
